@@ -1,3 +1,0 @@
-dockeruseraccountHH
-AKIA46736NAP6GKPCUDB 
-8/800rc/iqg3O8YWPW0B1pzS4CBvOyYnO/v9fq/+ Hide
