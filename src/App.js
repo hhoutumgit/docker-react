@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Het is 29 mei.
+          Het is 31 mei.
         </p>
         <a
           className="App-link"
